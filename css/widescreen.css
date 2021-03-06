@@ -1,0 +1,16 @@
+/* Align icon to left at What We Do Section*/
+#what .items .item{
+  display: flex;
+  text-align: left;
+}
+
+/* Position of icons */
+#what .items i{
+  margin-right: 1.3rem ;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+#contact .map{
+  flex: 2;
+}
